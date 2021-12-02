@@ -1,5 +1,7 @@
 # M2_Embedded_Air-Pollution-Detector
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee59b3d1255c4c9d8b0a2c2a280b0c28)](https://app.codacy.com/gh/Saretha21/M2_Embedded_Air-Pollution-Detector?utm_source=github.com&utm_medium=referral&utm_content=Saretha21/M2_Embedded_Air-Pollution-Detector&utm_campaign=Badge_Grade_Settings)
+
 
 
 
