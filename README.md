@@ -11,3 +11,5 @@
 [![Codacy Badge](https://api.codiga.io/project/30314/status/svg)](https://app.codiga.io/public/project/30314/M2_Embedded_Air-Pollution-Detector/dashboard)
 
 [![Codacy Badge](https://api.codiga.io/project/30314/score/svg)](https://app.codiga.io/public/project/30314/M2_Embedded_Air-Pollution-Detector/dashboard)
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/Saretha21/M2_Embedded_Air-Pollution-Detector/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Saretha21/M2_Embedded_Air-Pollution-Detector/actions/workflows/c-cpp.yml)
